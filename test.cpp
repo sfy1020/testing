@@ -5,9 +5,8 @@ using namespace std;
 int main(){
 
 
-	cout<<"123"<<endl;
-	cout<<"add"<<endl;
-dsadsa
+	cout<<"8798789"<<endl;
+
 
 	
 }
